@@ -66,3 +66,6 @@ https://github.com/baidubce/bce-qianfan-sdk/blob/main/docs/configurable.md
 [应用接入-appkey](https://console.bce.baidu.com/qianfan/ais/console/applicationConsole/application/v1)
 [Access-Key](https://console.bce.baidu.com/iam/#/iam/accesslist)
 [模型资源赠送](https://console.bce.baidu.com/ai_apaas/resource)
+
+# 参考视频
+
